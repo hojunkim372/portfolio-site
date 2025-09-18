@@ -1,3 +1,9 @@
+/* 
+  File: Layout.jsx
+  Name: Hojun Kim
+  Student ID: 301459546
+  Date: Sept 18, 2025
+*/
 import React from "react";
 import { Link } from "react-router-dom";
 import "../App.css";
